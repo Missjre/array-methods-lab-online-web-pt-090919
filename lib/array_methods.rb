@@ -9,7 +9,7 @@ end
 def using_sort(array)
 music_genre =["R&B","Hip Hop","Pop","Techno"]
 music_genre.sort
-=>
+=>["R&B","Hip Hop","Pop","Techno"]
 end
 
 def using_reverse(array)
