@@ -27,7 +27,7 @@ end
 def using_last(array)
 music_genre =["R&B","Hip Hop","Pop","Techno"]
 music_genre.last
-"Techno"
+=>"Techno"
 end
 
 def using_size(array)
