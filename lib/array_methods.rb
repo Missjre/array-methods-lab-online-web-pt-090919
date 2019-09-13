@@ -1,6 +1,7 @@
 def using_include(array, element)
 music_genre =["R&B","Hip Hop","Pop","Techno"]
 music_genre.include?("Gospel")
+=>
 end
 
 def using_sort(array)
