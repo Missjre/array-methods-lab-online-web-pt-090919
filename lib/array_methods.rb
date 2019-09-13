@@ -33,5 +33,5 @@ end
 def using_size(array)
 music_genre =["R&B","Hip Hop","Pop","Techno"]
 music_genre.size
-
+=>
 end
