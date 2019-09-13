@@ -7,6 +7,7 @@ music_genre.include?("R&B")
 end
 
 def using_sort(array)
+music_genre =["R&B","Hip Hop","Pop","Techno"]
 
 end
 
