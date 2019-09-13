@@ -25,7 +25,7 @@ music_genre.first
 end
 
 def using_last(array)
-
+music_genre =["R&B","Hip
 end
 
 def using_size(array)
