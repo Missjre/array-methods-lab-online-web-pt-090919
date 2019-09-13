@@ -15,7 +15,7 @@ end
 def using_reverse(array)
 music_genre =["R&B","Hip Hop","Pop","Techno"]
 music_genre.reverse
-=>"Techno","Pop","Hip Hop"
+=>["Techno","Pop","Hip Hop","Hip Hop"]
 end
 
 def using_first(array)
